@@ -12,3 +12,17 @@ C:\Users\Puesto20\source\repos\DBContexto\obj\Debug\net6.0\refint\DBContexto.dll
 C:\Users\Puesto20\source\repos\DBContexto\obj\Debug\net6.0\DBContexto.pdb
 C:\Users\Puesto20\source\repos\DBContexto\obj\Debug\net6.0\DBContexto.genruntimeconfig.cache
 C:\Users\Puesto20\source\repos\DBContexto\obj\Debug\net6.0\ref\DBContexto.dll
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\bin\Debug\net6.0\DBContexto.deps.json
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\bin\Debug\net6.0\DBContexto.runtimeconfig.json
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\bin\Debug\net6.0\DBContexto.dll
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\bin\Debug\net6.0\DBContexto.pdb
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\DBContexto.csproj.AssemblyReference.cache
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\DBContexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\DBContexto.AssemblyInfoInputs.cache
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\DBContexto.AssemblyInfo.cs
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\DBContexto.csproj.CoreCompileInputs.cache
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\DBContexto.dll
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\refint\DBContexto.dll
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\DBContexto.pdb
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\DBContexto.genruntimeconfig.cache
+C:\Users\Puesto20\Desktop\ProyectoFinalC2\DBContexto\obj\Debug\net6.0\ref\DBContexto.dll
